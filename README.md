@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on:<br>• Full-stack web development, automation projects, and algorithmic problem-solving<br><br>I'm looking to collaborate on:<br>• Open-source software<br>• Full-stack and backend web applications<br>• Automation and computer vision–based projects<br>• Cloud-based and scalable system architectures<br>• Student-led technical initiatives, hackathons, and research-oriented projects<br><br>I'm looking for help with:<br>• System design, performance optimization, and advanced competitive programming techniques<br>
 
+Looking forward to collaborate with like minded devs.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ithilagan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thilaganiniyavan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thilaganiniyavan@gmail.com) 
